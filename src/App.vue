@@ -34,6 +34,10 @@
         <li class="nav-item">
           <a class="nav-link" href="/coust">Coustomer</a>
         </li>
+                <li class="nav-item">
+          <a class="nav-link" href="/add_coustomer">Register</a>
+        </li>
+
          
       </ul>
       <form class="d-flex" role="search">
