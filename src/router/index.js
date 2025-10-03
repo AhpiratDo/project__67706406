@@ -54,6 +54,11 @@ const routes = [
     path: '/add_student',
     name: 'add_student',
     component: () => import(/* webpackChunkName: "about" */ '../views/add_student.vue')
+  },
+  {
+    path: '/coustomered',
+    name: 'coustomered',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Coustomeredit')
   }
 
 

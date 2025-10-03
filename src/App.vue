@@ -39,6 +39,7 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/coust">Coustomer</a></li>
             <li><a class="dropdown-item" href="/student">Student</a></li>
+            <li><a class="dropdown-item" href="/coustomered">Coustomeredit</a></li>
             </ul>
             </li>
                 <li class="nav-item">
