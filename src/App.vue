@@ -20,9 +20,9 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/product">Product</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="/productedit">Productedit</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="/employee">Employee</a></li>
           </ul>
         </li>
         <li class="nav-item">
